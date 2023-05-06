@@ -1,4 +1,4 @@
-# Mihoyo sign in
+# Mihoyo sign in 2023年5月6日 21:09:17
 
 ![badge](https://github.com/jianggaocheng/mihoyo-signin/workflows/Mihoyo%20SignIn/badge.svg)
 
